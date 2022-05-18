@@ -7,6 +7,10 @@
         {
             "nome": "Fabricio",
             "cidade": "Sao Bernardo do Campo"
+        },
+        {
+            "nome":"Julio",
+            "cidade": "Rio de Janeiro"
         }
     ]
 }
