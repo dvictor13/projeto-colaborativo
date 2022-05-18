@@ -2,7 +2,8 @@
     "catalogo":[
         {
             "nome": "Douglas",
-            "cidade": "Porto Alegre"
+            "cidade": "Porto Alegre",
+            "idade": 37
         },
         {
             "nome": "Fabricio",
