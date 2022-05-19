@@ -11,7 +11,8 @@
         },
         {
             "nome":"Julio",
-            "cidade": "Rio de Janeiro"
-        }
+            "cidade": "Rio de Janeiro",
+            "idade":27
+        },
     ]
 }
